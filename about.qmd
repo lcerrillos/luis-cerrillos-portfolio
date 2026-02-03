@@ -7,3 +7,5 @@ About this site
 ```{r}
 1 + 1
 ```
+
+My name is Luis Cerrillos, I was born and raised in Pomona, CA. I spent a lot of my youth in the garage working on classic cars and dirt bikes. I found a deep passion for all things mechanics. I currently am finishing up my Marine Science degree at California State University of Monterey Bay.
