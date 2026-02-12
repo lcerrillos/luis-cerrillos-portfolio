@@ -1,13 +1,15 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "luis-cerrillos-portfolio"
+  title: "Luis' ePortfolio"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About Me"
 
 format:
   html:
@@ -15,5 +17,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 

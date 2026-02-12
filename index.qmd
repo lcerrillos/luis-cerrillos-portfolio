@@ -1,11 +1,31 @@
 ---
-title: "luis-cerrillos-portfolio"
+title: "Luis Cerrillos"
+about:
+  template: jolla
+  image: IMG_5880.jpeg
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/luis-cerrillos-626ab728a/
+    - icon: github
+      text: Github
+      href: https://github.com/lcerrillos
 ---
 
-This is a Quarto website.
+Luis Cerrillos is an Undergrad Student, Research Diver, and Anthropocene Scholar for the Marine Science Department at \[California State University, Monterey Bay\] (<https://csumb.edu/marinescience/>).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education (WIP)
 
-```{r}
-1 + 1
-```
+California State University, Monterey Bay \| Marina, CA
+
+B.S. in Marine Science (Minor in Statistics) \| 2021-2026
+
+## Experience
+
+Rotolo Chevrolet \| Mechanical Service Technician \| 2022 - 2025 (May - August)
+
+Cooperative Learning Center \| Calculus Tutor \| August 2022 - December 2023
+
+Rancho Cielo \| Ranch Hand \| January 2024 - January 2025
+
+CSUMB Dive Locker \| Regulator Technician \| January 2024 - Present
